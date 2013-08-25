@@ -36,3 +36,5 @@ group :production do
 end
 
 gem 'therubyracer'
+
+gem 'awesome_print', :require => 'ap'
